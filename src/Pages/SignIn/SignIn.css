@@ -1,0 +1,15 @@
+.signIn-section {
+    margin-top: 100px;
+}
+
+.form-section {
+    border: 2px solid rgba(202, 187, 187, 0.091);
+    width: 50%;
+    margin: auto;
+}
+
+.login {
+    border: 1px solid rgb(237, 95, 95);
+    width: 650px;
+    margin-top: 20px;
+}

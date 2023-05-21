@@ -1,0 +1,26 @@
+.footer {
+
+    background-color: #DC3545;
+    color: white;
+
+
+}
+
+.footer ul li {
+    list-style: none;
+    text-align: center;
+}
+
+.footer ul li a {
+    color: white;
+    text-decoration: none;
+    text-align: right;
+    display: block;
+
+}
+
+.socal-image {
+    width: 30px;
+
+
+}
